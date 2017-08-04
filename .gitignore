@@ -1,0 +1,7 @@
+# Server Config
+*.yaml
+*.cfg
+
+Data
+*.csv
+*.xlsx
