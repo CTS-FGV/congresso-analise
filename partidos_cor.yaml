@@ -1,0 +1,101 @@
+--- !!python/object/apply:collections.OrderedDict
+dictitems:
+  Apoio Médio:
+    cor: '#7F7F7F'
+    ordem: 0
+  PT:
+    cor: '#D81224'
+    ordem: 1
+  PMDB:
+    cor: '#EA642A'
+    ordem: 2
+  PSDB:
+    cor: '#1F5393'
+    ordem: 3
+  DEM:
+    cor: '#1B8396'
+    ordem: 4
+  PP:
+    cor: '#CCBE70'
+    ordem: 5
+  PCDOB:
+    cor: '#BE4060'
+    ordem: 6
+  PDT:
+    cor: '#9D8577'
+    ordem: 7
+  PR:
+    cor: '#DAA05C'
+    ordem: 8
+  PSB:
+    cor: '#F7AF32'
+    ordem: 9
+  PODE:
+    cor: '#218CCD'
+    ordem: 10
+  PTDOB:
+    cor: '#7D1317'
+    ordem: 11
+  PSD:
+    cor: '#803367'
+    ordem: 12
+  PSOL:
+    cor: '#FCDB3A'
+    ordem: 13
+  REDE:
+    cor: '#3AB6C1'
+    ordem: 14
+  PV:
+    cor: '#69963D'
+    ordem: 15
+  PEN:
+    cor: '#9F742E'
+    ordem: 16
+  PHS:
+    cor: '#9FB292'
+    ordem: 17
+  PMN:
+    cor: '#69C3CE'
+    ordem: 18
+  PPL:
+    cor: '#B3B2B2' 
+    ordem: 19
+  PCB:
+    cor: '#B8452C'
+    ordem: 20
+  PPS:
+    cor: '#9374AE'
+    ordem: 21
+  PRB:
+    cor: '#5D879D'
+    ordem: 22
+  PROS:
+    cor: '#E63D85'
+    ordem: 23
+  PRP:
+    cor: '#D2D63A'
+    ordem: 24
+  PRTB:
+    cor: '#B18EBD'
+    ordem: 25
+  PSC:
+    cor: '#F9CCAF'
+    ordem: 26
+  PSDC:
+    cor: '#109745'
+    ordem: 27
+  PSL:
+    cor: '#E5E68E'
+    ordem: 28
+  PTB:
+    cor: '#27B8E8'
+    ordem: 29
+  PTC:
+    cor: '#E1DBB8'
+    ordem: 30
+  SD:
+    cor: '#69963D'
+    ordem: 31
+  PCO:
+    cor: '#575656'
+    ordem: 32
